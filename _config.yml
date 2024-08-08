@@ -19,6 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "38기 1-3반 사이트 부설"
 title_separator          : "-"
+future                   : <button type="button" onclick="https://docs.google.com/document/d/1hscPvxA-0gz16NtYRYNEhYq0mRAJhdDmDVGvJmg9zvs/edit">1-3반 2학기 제.추.제</button>
 future                   : true
 published                : true
 subtitle                 : # site tagline that appears below site title in masthead
