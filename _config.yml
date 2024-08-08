@@ -116,8 +116,8 @@ analytics:
 # Site Author
 author:
   name             : "Zoe139"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : # path of avatar image, e.g. "https://i.pinimg.com/564x/63/4c/d4/634cd470d2e86c357462fc9cbf8880b1.jpg"
+  bio              : "**조이는 신이다**"
   location         : "한일고등학교"
   email            : "20241307@hanilgo.cnehs.kr"
   links:
