@@ -115,11 +115,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Zoe139"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "한일고등학교"
+  email            : "20241307@hanilgo.cnehs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
