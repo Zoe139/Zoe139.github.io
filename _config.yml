@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -23,7 +23,7 @@ future                   : true
 published                : true
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zoe139"
-description              : "조이는 신이다"
+description              : #"조이는 신이다"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -123,44 +123,44 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "20241307@hanilgo.cnehs.kr"
+      url: "20241307@hanilgo.cnehs.kr"
     - label: "classroom"
       icon: "fas fa-fw fa-link"
-       url: "https://classroom.google.com/"
+      url: "https://classroom.google.com/"
     - label: "NAVER CAFE"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://section.cafe.naver.com/ca-fe/home"
+      url: "https://section.cafe.naver.com/ca-fe/home"
     - label: "Naver E-sport"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://m.game.naver.com/esports/League_of_Legends/home"
-    - label: "HAnillian"
+      url: "https://m.game.naver.com/esports/League_of_Legends/home"
+    - label: "Hanillian"
       icon: "fab fa-fw fa-github"
-       url: "https://www.hanilians.xyz/"
+      url: "https://www.hanilians.xyz/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Zoe1"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://namu.wiki/w/%EC%A1%B0%EC%9D%B4(%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C)"
+      url: "https://namu.wiki/w/%EC%A1%B0%EC%9D%B4(%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C)"
     - label: "Zoe2"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://i.pinimg.com/564x/63/4c/d4/634cd470d2e86c357462fc9cbf8880b1.jpg"
+      url: "https://i.pinimg.com/564x/63/4c/d4/634cd470d2e86c357462fc9cbf8880b1.jpg"
     - label: "Zoe3"
       icon: "fab fa-fw fa-github"
-       url:"https://i.namu.wiki/i/osL_I9dSDCK4xbfgVvUr8Lzg6i28RThhfS3woTkfYzzW-hMSZE2HQt8CjzQlN0EbD5Vzj01rtPZYvCJG477dRQ.webp"
+      url:"https://i.namu.wiki/i/osL_I9dSDCK4xbfgVvUr8Lzg6i28RThhfS3woTkfYzzW-hMSZE2HQt8CjzQlN0EbD5Vzj01rtPZYvCJG477dRQ.webp"
     - label: "Zoe4"
       icon: "fab fa-fw fa-gitlab"
-       url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIS32RmoZYWhOC7Npa5uoUKtd1rwJvypxNsw&s"
+      url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIS32RmoZYWhOC7Npa5uoUKtd1rwJvypxNsw&s"
     - label: "Zoe5"
       icon: "fab fa-fw fa-bitbucket"
-       url: "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/6fdade6717114c448ecc7c418835b0ce/0e5feba7c7e948c4a1e12c81c35d4e54_1579739418.jpg"
+      url: "https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/6fdade6717114c448ecc7c418835b0ce/0e5feba7c7e948c4a1e12c81c35d4e54_1579739418.jpg"
     - label: "Zoe6"
       icon: "fab fa-fw fa-instagram"
-       url: "https://images.khan.co.kr/article/2017/11/22/l_2017112202001089200237011.jpg"
+      url: "https://images.khan.co.kr/article/2017/11/22/l_2017112202001089200237011.jpg"
 
 
 # Reading Files
