@@ -121,9 +121,9 @@ author:
   location         : "한일고등학교"
   email            : "20241307@hanilgo.cnehs.kr"
   links:
-    - label: "Email"
+    - label: "Discord"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "20241307@hanilgo.cnehs.kr"
+      url: "https://discord.com/channels/1095349773189517334/1095349773189517337"
     - label: "classroom"
       icon: "fas fa-fw fa-link"
       url: "https://classroom.google.com/"
